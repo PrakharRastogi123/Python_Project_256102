@@ -1,6 +1,6 @@
 # About:
-* PyText is a python based text editor. Its GUI is build using tkinter.
-* PyText has functionalities like:
+* PyText is a python based **text editor**. Its GUI is build using tkinter.
+* PyText has functionalities like: 
   * Create a new file.
   * Open an already existing file to edit it.
   * Save option: If file is saved for the first time, then save as option will be used. Otherwise save option will overwrite the file.
