@@ -8,7 +8,7 @@
   * Exit option: To exit or to close PyText.
   * About Option: It will tell about release notes and version details about PyText.
 * PyText will show "untitled" in it's title bar if the file opened in Pytext is a new file and is not yet saved. It will show the name of the file in its title bar, once the file is created and saved. 
-* If the file opend is not saved it will show "<File-Name> - Unsaved" in its title bar. Otherwise it will show "<File-Name> - Saved" in its title bar.
+* If the file opened is not saved it will show "File-Name - Unsaved" in its title bar. Otherwise it will show "File-Name - Saved" in its title bar.
 ## Output
 ### Main Screen Interface
 ![alt text](https://github.com/PrakharRastogi123/Python_Project_256102/blob/main/Output_ScreenShots/ss%20(1).png)
